@@ -1,0 +1,2 @@
+ErrorDocument 404 /BernardDwamena.github.io/not-found.html
+ErrorDocument 503 https://gwiwweb2022.azurewebsites.net/net-error.html
